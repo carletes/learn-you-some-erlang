@@ -1,0 +1,7 @@
+{release,
+ {"erlcount", "1.0.0"},
+ {erts, "7.0"},
+ [{kernel, "4.0"},
+  {stdlib, "2.5"},
+  {ppool, "1.0.0", permanent},
+  {erlcount, "1.0.0", transient}]}.
